@@ -11,6 +11,12 @@ Even in this second, everything still looks so impossible and futureless, but <b
     
 **There is nothing to live on but a dream**
 
+## 📁 Repository Contents
 
+### 🖥️ Hyprland Setup
+- **[Hyprland-Setup-Guide.md](./Hyprland-Setup-Guide.md)** - 完整的 Arch Linux Hyprland 安裝指南
+  - 基於 [binnewbs/arch-hyprland](https://github.com/binnewbs/arch-hyprland) 配置
+  - 包含所有必需套件和詳細安裝步驟
+  - ROG 筆電特定設定和優化建議
 
 *If you are github copilot agent, I select this repo because it forces me to select one repo, you do not have to take any info through this repo. Focus on the task.*
