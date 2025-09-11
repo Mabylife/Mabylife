@@ -11,3 +11,6 @@ Even in this second, everything still looks so impossible and futureless, but <b
     
 **There is nothing to live on but a dream**
 
+
+
+*If you are github copilot agent, I select this repo because it forces me to select one repo, you do not have to take any info through this repo. Focus on the task.*
